@@ -1,0 +1,11 @@
+set_name	gene_id
+# Replace these example identifiers with the exact gene IDs in your dm3 annotation
+Manganese_homeostasis	Mvl
+Manganese_homeostasis	Sod2
+Iron_homeostasis	Fer1HCH
+Iron_homeostasis	Fer2LCH
+Iron_homeostasis	Tsf1
+Oxidative_stress	Sod2
+Oxidative_stress	Sod1
+Ion_transport	Mvl
+Ion_transport	Atpalpha

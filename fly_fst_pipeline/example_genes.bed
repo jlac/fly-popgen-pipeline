@@ -1,0 +1,8 @@
+# arm start0 end0 gene_id gene_name; EXAMPLES ONLY, NOT REAL FLYBASE COORDINATES
+2L	0	100	Mvl	Mvl
+2L	110	220	Sod2	Sod2
+2L	230	320	Fer1HCH	Fer1HCH
+2L	330	440	Fer2LCH	Fer2LCH
+2L	450	550	Tsf1	Tsf1
+2L	560	660	Sod1	Sod1
+2L	670	770	Atpalpha	Atpalpha
